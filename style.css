@@ -456,7 +456,7 @@
 
     .seasonImagesContainer {
         flex-direction: column;
-            padding-right: 65px;
+            /* padding-right: 65px; */
     }
 
     .seasonSecondContainer {
@@ -478,7 +478,12 @@
     }
 
     .brandContainer div{
-    padding-left: 0px;
+    padding-left: 0;
+   
+    }
+
+    .brandContainer img{
+        width: 220px;
     }
 
     .newCollectionContent {
